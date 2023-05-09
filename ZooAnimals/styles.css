@@ -1,0 +1,13 @@
+body { 
+    background-color: lightgreen;
+    color: coral;
+    
+}
+
+.image {
+    height: 200px;
+    width: 200px;
+    border: 3px;
+    margin: 5px 5px 5px 5px;
+    padding: 2px 3px 2px 3px;
+}

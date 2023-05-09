@@ -1,0 +1,48 @@
+h2 {
+    color: blanchedalmond;
+    font-size: 40px;
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-style: dotted;
+    border-width: 10px;
+    margin: 20px;
+    padding: 10px;
+}
+
+h5 {
+    color: blanchedalmond;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-style: dotted;
+    border-width: 10px;
+    margin: 20px;
+    padding: 10px;
+}
+
+
+h6 {
+    font-size: 20px;
+
+}
+
+.image {
+    height:200px;
+    width: 200px;
+    border: 10px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+body {
+    background-color:orchid;
+}
+
+section{
+    background-color: gold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    height: 150px;
+    width: 250px;
+    color: green;
+    /* margin: 10px; */
+}
